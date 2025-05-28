@@ -1,3 +1,9 @@
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # คำอธิบายวิธีทำพร้อม code สำหรับข้อ [toi21_duty_free](https://otog.in.th/problem/1090)
 ## สรุปโจทย์
 เรามีลูกค้าจะซื้อกระเป๋า $N$ คน ไล่คิวจากคนที่ $1$ ถึงคนที่ $N$ โดยคนที่ $i$ สามารถเดินได้ไกลสุด $max\_allowed\_positions[i - 1]$ ตำแหน่งได้ โดย:
