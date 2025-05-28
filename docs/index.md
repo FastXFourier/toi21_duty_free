@@ -77,5 +77,5 @@ int minimum_bag_rearrangement_time(vector <int> max_allowed_positions){
 
 หากมีข้อสงสัย comment ไว้ใต้ post ได้เลยนะครับ 🙇‍♂️🙇‍♂️
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE2ODI5NV19
+eyJoaXN0b3J5IjpbODU0ODA0MDk0LC0yNjgxNjgyOTVdfQ==
 -->
